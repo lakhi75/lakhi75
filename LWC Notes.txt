@@ -1,0 +1,29 @@
+LWC Examples:
+
+Session4:
+-----
+<!DOCTYPE html>
+<html>
+<style>
+  div {
+    background-color: #f8f9f9;
+    font-family: 'Verdana';
+    color: green;
+  }
+</style>
+<body>
+  <div>
+    This is a LWC class!
+  </div>
+    <div>
+    This is a LWC class1!
+  </div>
+    <div>
+    This is a LWC class3!
+  </div>  
+</body>
+</html>
+-----
+
+
+
