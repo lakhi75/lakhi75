@@ -1,6 +1,7 @@
 LWC Examples:
 
 Session4:
+Ex:1
 -----
 <!DOCTYPE html>
 <html>
@@ -24,6 +25,118 @@ Session4:
 </body>
 </html>
 -----
+Ex:2
+-----
+<!DOCTYPE html>
+<html>
+<h1> Multiple DIV Elements</h1>
+<body>
+  <div style="background-color:#FFF443;">
+    <h3>This is a LWC class! </h3>
+  </div>
+    <div style="background-color:#FFC0C7;">
+    <h3>This is a LWC class! </h3>
+  </div>
+    <div style="background-color:#D9EEE1;">
+    <h3>This is a LWC class! </h3>
+  </div>  
+</body>
+</html>
+----
 
+
+EX:3
+----
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .headings{
+        color: lightgreen;
+        font-family: cursive;
+        background-color: black;
+      }
+    </style>
+  </head>
+<body>
+<h1 class="headings"> This is first heading </h1>
+<h2 class="headings">   This is Second heading </h2>
+<h3 class="headings">   This is Third heading </h3>
+<h4 class="headings">   This is Fourth heading </h4>
+</body>
+</html>
+
+----------
+
+
+Ex 4:
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .heading1{
+        color: lightgreen;
+        font-family: cursive;
+        background-color: black;
+      }
+      .heading2{
+        color: lightgreen;
+        font-family: cursive;
+        background-color: red;
+      }
+      .heading3{
+        color: lightgreen;
+        font-family: cursive;
+        background-color: yellow;
+      }
+
+      .heading4{
+        color: lightgreen;
+        font-family: cursive;
+        background-color: orange;
+      }
+
+      
+    </style>
+  </head>
+<body>
+<h1 class="heading1"> This is first heading </h1>
+<h2 class="heading2">   This is Second heading </h2>
+<h3 class="heading3">   This is Third heading </h3>
+<h4 class="heading4">   This is Fourth heading </h4>
+</body>
+</html>
+
+--------
+
+Ex:5
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #Cars {
+        padding: 40px;
+        background-color: lightblue;
+        color: black;
+        text-align: center;
+      }
+      
+      #Bikes {
+        padding: 50px;
+        background-color: lightgreen;
+        color: blue;
+        text-align: center;
+      }
+
+      
+    </style>
+  </head>
+<body>
+<h1 id="Cars"> This is first heading </h1>
+<h2 id="Bikes">   This is Second heading </h2>
+</body>
+</html>
+-----
 
 
